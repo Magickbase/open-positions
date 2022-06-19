@@ -1,4 +1,4 @@
-# JavaScript Engineer(Part time, 20h/week)
+# JavaScript Engineer(Full time, 40h/week)
 
 ### Responsibilities
 

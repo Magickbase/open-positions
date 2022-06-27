@@ -12,7 +12,7 @@
 - Have worked on generic front-end scope such as Node.js app, electron app;
 - Proficient in utilities of front-end, such as scaffold, css pretreats, template engines;
 - Prefer React and TypeScript;
-- Have knownledge on Blockchain and have particiated in related products design;
+- Have knownledge on Blockchain and have participated in related products design;
 - Fluently in English.
 
 ### Preferred Qualifications

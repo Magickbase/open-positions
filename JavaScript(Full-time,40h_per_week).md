@@ -8,12 +8,13 @@
 
 ### Minimum Qualifications
 
+- Comp. Sci or Comp. Eng degree or demonstrable skill and equivalent experience;
 - Experienced in Front-end development, familiar with HTML, CSS and TypeScript, have a clear understand on Web standards(Accessibility, Security);
 - Have worked on generic front-end scope such as Node.js app, electron app;
 - Proficient in utilities of front-end, such as scaffold, css pretreats, template engines;
 - Prefer React and TypeScript;
 - Have knownledge on Blockchain and have participated in related products design;
-- Fluently in English.
+- Fluently in English reading and writing.
 
 ### Preferred Qualifications
 

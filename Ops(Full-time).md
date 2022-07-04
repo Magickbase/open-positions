@@ -1,4 +1,4 @@
-# Operations and Maintenance Engineer(Full time, 40h/week)
+# Operations and Maintenance Engineer(Full time)
 
 ### Responsibilities
 

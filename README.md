@@ -4,7 +4,7 @@ Mail us jobs@magickbase.com
 
 ## Open List
 
-- [Product/Project Manager](<https://github.com/Magickbase/open-positions/blob/main/PM(Full-time%2C40h_per_week).md>)
+- <del>[Product/Project Manager](<https://github.com/Magickbase/open-positions/blob/main/PM(Full-time%2C40h_per_week).md>)</del>
 - [JavaScript Fullstack Engineer](<https://github.com/Magickbase/open-positions/blob/main/JavaScript(Full-time%2C40h_per_week).md>)
 - [Ruby Engineer](<https://github.com/Magickbase/open-positions/blob/main/Ruby(Full-time%2C40h_per_week).md>)
 - [Tester](<https://github.com/Magickbase/open-positions/blob/main/Tester(Full-time).md>)

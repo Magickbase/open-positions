@@ -9,4 +9,4 @@ Mail us jobs@magickbase.com
 - [Ruby Engineer](<https://github.com/Magickbase/open-positions/blob/main/Ruby(Full-time%2C40h_per_week).md>)
 - <del>[Tester](<https://github.com/Magickbase/open-positions/blob/main/Tester(Full-time).md>)</del>
 - [Ops Engineer](<https://github.com/Magickbase/open-positions/blob/main/Ops(Full-time).md>)
-- <del>Database Administrator](<https://github.com/Magickbase/open-positions/blob/main/Database-Administrator(Full-time%2C40h_per_week).md>)</del>
+- <del>[Database Administrator](<https://github.com/Magickbase/open-positions/blob/main/Database-Administrator(Full-time%2C40h_per_week).md>)</del>

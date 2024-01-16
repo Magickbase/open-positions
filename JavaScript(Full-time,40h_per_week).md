@@ -1,23 +1,26 @@
-# JavaScript Engineer(Full time, 40h/week)
+# JavaScript Engineer(Full-Time, 40 Hours/Week)
 
 ### Responsibilities
 
-- Build high-quality web applications and electron-based desktop applications;
-- Keep optimizing code and applications in codebase, performance and user interface;
-- Build dev-tools/libs for the whole ecosystem of nervos network CKB project and godwoken project;
+- Develop high-quality web applications and electron-based desktop applications.
+- Continuously optimize code, applications, and user interfaces within the codebase.
+- Contribute to the development of dev-tools/libs for the entire ecosystem of the Nervos Network CKB project, including a TypeScript-based JS SDK (Lumos) and associated tools.
+- Create comprehensive documentation, tutorials, and examples for developed applications and tools.
 
 ### Minimum Qualifications
 
-- Comp. Sci or Comp. Eng degree or demonstrable skill and equivalent experience;
-- Experienced in Front-end development, familiar with HTML, CSS and TypeScript, have a clear understanding of Web standards(Accessibility, Security);
-- Have worked on generic front-end scope such as Node.js app, electron app;
-- Proficient in utilities of front-end, such as scaffold, css pretreats, and template engines;
-- Prefer React and TypeScript;
-- Have knowledge of Blockchain and have participated in related products design;
-- Fluently in English reading and writing.
+- Bachelor's degree in Computer Science or Computer Engineering, or equivalent demonstrable skills and experience.
+- Proven experience in front-end development, with a strong familiarity with HTML, CSS, and TypeScript, along with a clear understanding of web standards (Accessibility, Security).
+- Previous work on diverse front-end scopes, including Node.js applications and electron applications.
+- Proficiency in front-end utilities such as scaffolding, CSS preprocessors, and template engines.
+- Preferably experienced in React and TypeScript.
+- Hands-on experience with React and a strong working knowledge of developing across multiple runtimes like Node.js and modern browsers.
+- Knowledge of Blockchain concepts and previous involvement in related product designs.
+- Fluent in English for reading and writing.
 
 ### Preferred Qualifications
 
-- Live in open source community;
-- Have GitHub or Blog
-
+- Active participation in open-source communities.
+- Presence on GitHub or a personal blog showcasing relevant work.
+- Working knowledge of the UTxO model, particularly in blockchain systems like BTC.
+- Previous experience working with decentralized applications (dApps).

@@ -16,7 +16,7 @@
 - Preferably experienced in React and TypeScript.
 - Hands-on experience with React and a strong working knowledge of developing across multiple runtimes like Node.js and modern browsers.
 - Knowledge of Blockchain concepts and previous involvement in related product designs.
-- Fluent in English for reading and writing.
+- Fluent in Mandarin and English for reading and writing.
 
 ### Preferred Qualifications
 
